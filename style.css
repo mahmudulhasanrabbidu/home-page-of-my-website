@@ -35,7 +35,7 @@
     font-family: Arial;
     
     float: right;
-    padding-top: 3px;
+    padding-top: 20px;
     font-weight: bold;
     font-size: 35px;
 }
@@ -82,7 +82,7 @@ ul li a:hover {
 
 .search {
     width: 30%;
-    float: left;
+    float: right;
     
 }
 
